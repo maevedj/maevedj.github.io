@@ -139,7 +139,8 @@ p.articulate {
 #a_p1 {
     padding-left:3vw;
     grid-row:3/4;
-    grid-column:2/4;
+    grid-column:2/5;
+    padding-right:13vw;
 }
 #a_p2 {
     grid-row:4/5;
